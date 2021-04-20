@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @beitist
 - 👀 I’m interested in teaching, gardening, music, learning, languages and programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I worked in tech from '04-'08 and am currently catching up
 - 💞️ I’m looking to collaborate on ag-tech
-- 📫 How to reach me at sebastian.stuewe [at] gmail.com
+- 📫 Reach me at sebastian.stuewe [at] gmail.com
 
 <!---
 beitist/beitist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
