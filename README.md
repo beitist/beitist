@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beitist
 - 👀 I’m interested in teaching, gardening, music, learning, languages and programming
 - 🌱 I worked in tech from '04-'08 and am currently catching up
-- 💞️ I’m looking to collaborate on ag-tech
+- 💞️ I’m looking to collaborate on ag-tech and stem-tech for elementary school kids
 - 📫 Reach me at sebastian.stuewe [at] gmail.com
 
 <!---
